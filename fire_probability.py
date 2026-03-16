@@ -3,7 +3,6 @@ import os
 import sys
 import numpy as np
 import rasterio
-import h5py
 import tensorflow as tf
 import xarray as xr
 from tensorflow import keras
