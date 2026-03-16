@@ -1,6 +1,6 @@
 # Fire Probability Prediction Pipeline
 
-A Python-based pipeline for wildfire probability mapping using Sentinel-2 satellite imagery, deep learning-based fuel type classification, and Bayesian probability modeling.
+A minimal implementation, Python-based pipeline for wildfire probability mapping using Sentinel-2 satellite imagery, deep learning-based fuel type classification, and Bayesian probability modeling. The repository doesn't include any training step and intended to use for forward prediction. The minimum required dataset and model to run the algorithm also available in this repository.
 
 ## Overview
 
