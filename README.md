@@ -39,7 +39,7 @@ For GPU acceleration, you need:
 
 To simplify usage of the project, we provide implementation in Google Colab, please visit at :
 
-[![Open In Colab](https://colab.research.google.com/drive/1_s_7auKG4NgQv73QVRzqmxxVjWtNiQb-?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_s_7auKG4NgQv73QVRzqmxxVjWtNiQb-?usp=sharing)
 
 ---
 
