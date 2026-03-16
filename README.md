@@ -35,6 +35,14 @@ For GPU acceleration, you need:
 
 ---
 
+## Google Colab version
+
+To simplify usage of the project, we provide implementation in Google Colab, please visit at :
+
+[![Open In Colab](https://colab.research.google.com/drive/1_s_7auKG4NgQv73QVRzqmxxVjWtNiQb-?usp=sharing)]
+
+---
+
 ## Installation
 
 1. **Clone or download the script**:
